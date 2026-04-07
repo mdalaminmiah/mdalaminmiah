@@ -1,16 +1,29 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**mdalaminmiah/mdalaminmiah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Md. Al Amin Miah
 
-Here are some ideas to get you started:
+**Senior Software Engineer · ERP Architect · Full Stack Developer**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+_Building enterprise systems that scale — from garment floors to cloud-ready APIs_
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mdalaminmiah/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-111827?style=flat-square&logo=githubpages&logoColor=white)](https://mdalaminmiah.github.io/alamin/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/mdalaminmiah)
+
+</div>
+
+---
+
+## Who I Am
+
+I'm a **Senior Software Engineer** with **7+ years** of deep experience architecting and delivering **enterprise ERP systems** for Bangladesh's garment and textile industry one of the most operationally complex domains in manufacturing.
+
+I've shipped systems that manage inventory, payroll, production lines, commercial operations, and finance for some of the country's leading manufacturers. Now I'm expanding that foundation into the **modern full-stack JavaScript ecosystem** — Node.js, React, Next.js, MongoDB — to build faster, leaner, cloud-ready applications on top of the solid engineering principles I've built my career on.
+
+---
+
+<div align="center">
+
+_"Five years building systems that run factories. Now building the tools that run the web."_
+
+</div>
