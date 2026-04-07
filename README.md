@@ -9,6 +9,7 @@ _Building enterprise systems that scale — from garment floors to cloud-ready A
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mdalaminmiah/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-111827?style=flat-square&logo=githubpages&logoColor=white)](https://mdalaminmiah.github.io/alamin/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/mdalaminmiah)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white)](https://www.facebook.com/md.a.hossain)
 
 </div>
 
