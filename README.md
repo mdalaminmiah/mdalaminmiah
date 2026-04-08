@@ -1,76 +1,83 @@
 <div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=100&section=0EA5E9" width="100%"/>
+</div>
 
-# Md. Al Amin Miah
+<div align="center">
 
-**Full Stack Developer | ASP.NET Core | React | Node Js | Next Js | Express Js | SQL Server Building scalable enterprise solutions**
+# 👋 Hi there, I'm Md. Al Amin Miah
 
-_Building enterprise systems that scale — from garment floors to cloud-ready APIs_
+### **Senior Software Engineer & ERP Architect**
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mdalaminmiah/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-111827?style=flat-square&logo=githubpages&logoColor=white)](https://mdalaminmiah.github.io/alamin/)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/mdalaminmiah)
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white)](https://www.facebook.com/md.a.hossain)
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=0EA5E9&center=true&vCenter=true&width=500&lines=Building+Scalable+ERP+Systems;Full+Stack+Developer;ASP.NET+Core+%2B+Next.js+Expert;Bridging+Manufacturing+%26+Cloud" alt="Typing SVG" />
+</p>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mdalaminmiah/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-111827?style=for-the-badge&logo=githubpages&logoColor=white)](https://mdalaminmiah.github.io/alamin/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mdalaminmiah)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/md.a.hossain)
 
 </div>
 
 ---
 
-## About me
+## 🚀 About Me
 
-I'm a **Senior Software Engineer** with **7+ years plus** of deep experience architecting and delivering **enterprise ERP systems** for Bangladesh's garment, textile, Dyeing, knitting, and Printing manufacturing, Leather manufacturing industry, one of the most operationally complex domains in manufacturing.
+I am a **Senior Software Engineer** with over **7 years** of experience architecting high-stakes **Enterprise ERP systems**. My career has been forged in the complex operational landscapes of Bangladesh's garment, textile, Dyeing & Printing, and leather manufacturing industries.
 
-I've shipped systems that manage HRMS, Inventory, Payroll, Production lines, Costing, Commercial operations, and finance for some of the country's leading manufacturers. Now I'm expanding that foundation into the **modern full-stack JavaScript ecosystem** — Node.js, React, Next.js, MongoDB — to build faster, leaner, cloud-ready applications on top of the solid engineering principles I've built my career on.
+- **What I do:** I turn fragmented factory floors into synchronized digital ecosystems (HRMS, Payroll, Production, Finance, Costing & Digital Reporting).
+- **The Evolution:** While my foundation is built on the robust **.NET & SQL Server** stack, I am currently leveraging **Modern Full-Stack JavaScript** (Next.js, Node.js, MongoDB) to build the next generation of lean, cloud-native enterprise tools.
 
-> _" **7+ years plus** building systems that run factories. Now building the tools that run the web."_
+> _"Building systems that run factories. Now building the tools that run the web."_
 
 ---
 
-## Tech stack
+## 🛠 Tech Stack & Expertise
 
-<div align="center">
+### 🏗 Backend & Core Architecture
 
-### Backend — primary domain
+![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
+![.Net](https://img.shields.io/badge/.NET_Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![Dapper](https://img.shields.io/badge/Dapper-0078D4?style=for-the-badge&logo=nuget&logoColor=white)
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
 
-![ASP.NET Core](https://img.shields.io/badge/ASP.NET_Core-512BD4?style=flat-square&logo=dotnet&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white)
-![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white)
-![Entity Framework](https://img.shields.io/badge/Entity_Framework-512BD4?style=flat-square&logo=dotnet&logoColor=white)
-![Dapper](https://img.shields.io/badge/Dapper-0078D4?style=flat-square&logo=nuget&logoColor=white)
+### 🎨 Frontend & UI Design
 
-### Frontend
+![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![daisyUI](https://img.shields.io/badge/daisyUI-5AD7E4?style=for-the-badge&logo=daisyui&logoColor=black)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
-![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=flat-square&logo=jquery&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
+### 💾 Database
 
-### Modern full stack (active)
+![MicrosoftSQLServer](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![JWT](https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white)
+---
 
-### Reporting & data
+### 📊 Reporting & Data Visualization
 
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
-![SSRS](https://img.shields.io/badge/SSRS-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![ECharts](https://img.shields.io/badge/ECharts-AA0000?style=for-the-badge&logo=apacheecharts&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![SSRS](https://img.shields.io/badge/SSRS-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
+![PDF](https://img.shields.io/badge/iTextSharp-FF0000?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)
+![Excel](https://img.shields.io/badge/EPPlus-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
+
+---
 
 ### Tools
 
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![Azure DevOps](https://img.shields.io/badge/Azure_DevOps-0078D4?style=flat-square&logo=azuredevops&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
-
-</div>
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Azure DevOps](https://img.shields.io/badge/Azure_DevOps-0078D4?style=for-the-badge&logo=azuredevops&logoColor=white)
 
 ---
 
-<div align="center">
-
 _" **7+ years plus** building systems that run factories. Now building the tools that run the web."_
 
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=100&section=footer" width="100%"/>
 </div>
