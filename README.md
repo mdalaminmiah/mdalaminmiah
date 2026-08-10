@@ -12,7 +12,6 @@
 
 <br/>
 
-<<<<<<< HEAD
 ![Experience](https://img.shields.io/badge/Experience-7%2B_Years-0EA5E9?style=flat-square)
 ![ERP Modules](https://img.shields.io/badge/ERP_Modules_Shipped-25%2B-6366F1?style=flat-square)
 ![Production Lines](https://img.shields.io/badge/Production_Lines_Served-63-7C3AED?style=flat-square)
@@ -20,6 +19,7 @@
 ![Location](https://img.shields.io/badge/Rangpur,_Bangladesh-Remote_Friendly-16A34A?style=flat-square)
 ![Profile views](https://komarev.com/ghpvc/?username=mdalaminmiah&label=Profile%20views&color=0EA5E9&style=flat-square)
 =======
+
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mdalaminmiah/)
@@ -28,7 +28,6 @@
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/md.a.hossain)
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mdalaminmiah4625@gmail.com)
 [![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/mdalaminmiah4625)
->>>>>>> 4d177962539245949b12a4d6435b3fc250bbde2a
 
 </div>
 
@@ -57,7 +56,7 @@ My foundation is the **.NET ecosystem and SQL Server**, and I'm now building pro
 
 ## 📊 What I Actually Build
 
-GitHub's public language cards only see my **27 public repos** — but most of my engineering lives in **75 owned repositories**, the majority private enterprise work. Here's the honest picture, measured across *all* of them:
+GitHub's public language cards only see my **27 public repos** — but most of my engineering lives in **75 owned repositories**, the majority private enterprise work. Here's the honest picture, measured across _all_ of them:
 
 ```mermaid
 %%{init: {"theme":"base", "themeVariables": {"pie1":"#512BD4","pie2":"#F7DF1E","pie3":"#777BB4","pie4":"#E34F26","pie5":"#0EA5E9","pie6":"#1572B6","pie7":"#3178C6","pie8":"#7F52FF","pie9":"#94A3B8","pieOuterStrokeWidth":"0px"}} }%%
@@ -315,7 +314,7 @@ Storefront, shop counter and accounts department unified in a single **Turborepo
 
 ### 🎂 MishtiCake — Bakery Commerce
 
-*Build Your Own Cake* studio with live pricing, flowing through kitchen to delivery.
+_Build Your Own Cake_ studio with live pricing, flowing through kitchen to delivery.
 
 `Next.js 15` `React 19` `Prisma` `MySQL 8`
 
@@ -334,14 +333,14 @@ Storefront, shop counter and accounts department unified in a single **Turborepo
 Industrial ERP running inventory, production, accounts and payroll.
 **Stack:** ASP.NET Core (N-Tier / Micro-Architecture) · C# · AngularJS · SQL Server 2014/2019 · iTextSharp · Crystal Reports · EPPlus
 
-| Module | Features |
-| :--- | :--- |
-| **User Management** | User roles · Setup information · Data lock / unlock |
-| **Spare Parts Inventory** | Material receive (auto voucher) · Issue · Return from production · Return to supplier |
+| Module                        | Features                                                                                                                                                                                             |
+| :---------------------------- | :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **User Management**           | User roles · Setup information · Data lock / unlock                                                                                                                                                  |
+| **Spare Parts Inventory**     | Material receive (auto voucher) · Issue · Return from production · Return to supplier                                                                                                                |
 | **Dyes & Chemical Inventory** | Opening balance · Receive (auto voucher) · Dyeing chemical issue (recipe/manual) · Re-match & re-dyeing issue · Printing chemical issue · Boiler & ETP issue · Returns · Loan adjustment · Valuation |
-| **Accounts** | Opening balance (A/C head) · Supplier item-wise loan opening · Account heads · Debit / credit / journal vouchers |
-| **Commercial** | Dyeing PI · Printing PI · Item-wise dyes & chemical LC open |
-| **Cheque Management** | Bank account entry · Cheque book entry · Cheque issue (print & preview) · Personal cheque print |
+| **Accounts**                  | Opening balance (A/C head) · Supplier item-wise loan opening · Account heads · Debit / credit / journal vouchers                                                                                     |
+| **Commercial**                | Dyeing PI · Printing PI · Item-wise dyes & chemical LC open                                                                                                                                          |
+| **Cheque Management**         | Bank account entry · Cheque book entry · Cheque issue (print & preview) · Personal cheque print                                                                                                      |
 
 </details>
 
@@ -394,15 +393,15 @@ Industrial ERP running inventory, production, accounts and payroll.
 
 <br/>
 
-| Project | Stack | Code |
-| :--- | :--- | :--- |
-| 🎓 University Management System | ASP.NET MVC · C# · SQL Server · Bootstrap | [Repo](https://github.com/mdalaminmiah/University-Mangement-Syatem-Application-By-AspDotNet) |
-| 🏥 Diagnostic Bill Management System | ASP.NET Three-Layer · C# · SQL Server · jQuery | [Repo](https://github.com/mdalaminmiah/Diagnostic-Bill-management-System) |
-| 🏨 Hospital Management System | Java · OOP · Swing | [Repo](https://github.com/mdalaminmiah/Hospital-Management-System-By-Java) |
-| 🚂 Railway Ticket Management System | Java · Swing · SQL Server | [Repo](https://github.com/mdalaminmiah/Railway-Ticket-Management-System-By-Java) |
-| 👩‍🎓 Student Information System | Java · OOP · Swing | [Repo](https://github.com/mdalaminmiah/Student-Information-System-By-Java) |
-| 🩸 Blood Donor Management System | Java · OOP | [Repo](https://github.com/mdalaminmiah/Blood-Donar-Management-System-By-Java) |
-| 📱 Android Mini Projects & API | Java · Android SDK | [Apps](https://github.com/mdalaminmiah/AndroidMiniProjectCode) · [API](https://github.com/mdalaminmiah/Android-API) |
+| Project                              | Stack                                          | Code                                                                                                                |
+| :----------------------------------- | :--------------------------------------------- | :------------------------------------------------------------------------------------------------------------------ |
+| 🎓 University Management System      | ASP.NET MVC · C# · SQL Server · Bootstrap      | [Repo](https://github.com/mdalaminmiah/University-Mangement-Syatem-Application-By-AspDotNet)                        |
+| 🏥 Diagnostic Bill Management System | ASP.NET Three-Layer · C# · SQL Server · jQuery | [Repo](https://github.com/mdalaminmiah/Diagnostic-Bill-management-System)                                           |
+| 🏨 Hospital Management System        | Java · OOP · Swing                             | [Repo](https://github.com/mdalaminmiah/Hospital-Management-System-By-Java)                                          |
+| 🚂 Railway Ticket Management System  | Java · Swing · SQL Server                      | [Repo](https://github.com/mdalaminmiah/Railway-Ticket-Management-System-By-Java)                                    |
+| 👩‍🎓 Student Information System        | Java · OOP · Swing                             | [Repo](https://github.com/mdalaminmiah/Student-Information-System-By-Java)                                          |
+| 🩸 Blood Donor Management System     | Java · OOP                                     | [Repo](https://github.com/mdalaminmiah/Blood-Donar-Management-System-By-Java)                                       |
+| 📱 Android Mini Projects & API       | Java · Android SDK                             | [Apps](https://github.com/mdalaminmiah/AndroidMiniProjectCode) · [API](https://github.com/mdalaminmiah/Android-API) |
 
 </details>
 
@@ -410,36 +409,36 @@ Industrial ERP running inventory, production, accounts and payroll.
 
 ## 💼 Experience
 
-| Role | Organisation | Period | Focus |
-| :--- | :--- | :--- | :--- |
-| **Senior Software Engineer** | Ventura Leatherwear Mfy (BD) Ltd. | Jun 2024 – Present | HRMS · Production & Finance ERP · 63 lines, 10 workshops |
-| **Sr. Programmer** | Epyllion Group, Dhaka | Apr 2022 – Jun 2024 | Multi-company Garments / Textile ERP suite |
-| **Senior Software Developer** | Urmee Knitwear Limited, Dhaka | Sep 2019 – Apr 2022 | Knitting, Dyeing & Printing ERP · Accounts · HRMS |
-| **Programmer** | Infocrat Solutions Ltd., Dhaka | Mar 2019 – May 2019 | ERP application & database development |
-| **Student Prefect (Teaching)** | Daffodil International University | May 2018 – Aug 2018 | Operating Systems lab |
+| Role                           | Organisation                      | Period              | Focus                                                    |
+| :----------------------------- | :-------------------------------- | :------------------ | :------------------------------------------------------- |
+| **Senior Software Engineer**   | Ventura Leatherwear Mfy (BD) Ltd. | Jun 2024 – Present  | HRMS · Production & Finance ERP · 63 lines, 10 workshops |
+| **Sr. Programmer**             | Epyllion Group, Dhaka             | Apr 2022 – Jun 2024 | Multi-company Garments / Textile ERP suite               |
+| **Senior Software Developer**  | Urmee Knitwear Limited, Dhaka     | Sep 2019 – Apr 2022 | Knitting, Dyeing & Printing ERP · Accounts · HRMS        |
+| **Programmer**                 | Infocrat Solutions Ltd., Dhaka    | Mar 2019 – May 2019 | ERP application & database development                   |
+| **Student Prefect (Teaching)** | Daffodil International University | May 2018 – Aug 2018 | Operating Systems lab                                    |
 
 <details>
 <summary>▶ Detailed responsibilities & project contributions</summary>
 
 <br/>
 
-**Ventura Leatherwear Mfy (BD) Ltd.** — *Senior Software Engineer*
+**Ventura Leatherwear Mfy (BD) Ltd.** — _Senior Software Engineer_
 Enterprise software across **HRMS, Production & Finance ERP** on .NET Core and PHP (Laravel, CodeIgniter). Backend services in ASP.NET Core, C# and Web API; modular architecture with Microservices and CQRS using Autofac and MediatR; relational and NoSQL schema design and tuning across SQL Server, MySQL, PostgreSQL and MongoDB; SSRS/RDLC reporting with automated PDF/Excel generation; dashboards in Power BI, Chart.js and Morris.js; full SDLC plus on-site and remote ERP rollout support.
-*Projects:* HRMS · Production & Finance ERP · Automation · Paper Free · MDM · AI Scheduler
+_Projects:_ HRMS · Production & Finance ERP · Automation · Paper Free · MDM · AI Scheduler
 
-**Epyllion Group** — *Sr. Programmer*
+**Epyllion Group** — _Sr. Programmer_
 Requirement analysis and database architecture for a multi-company garments and textile ERP suite; custom report development and optimisation; post-deployment support driven by QC and user feedback; on-site support across branches nationwide.
-*Projects:* Garments ERP · Textile ERP · Accessories ERP · Expense Management · Accounts & Finance · Supplier Portal · Sailor ERP
+_Projects:_ Garments ERP · Textile ERP · Accessories ERP · Expense Management · Accounts & Finance · Supplier Portal · Sailor ERP
 
-**Urmee Knitwear Limited** — *Senior Software Developer*
+**Urmee Knitwear Limited** — _Senior Software Developer_
 Led full-cycle development of the Knitting, Dyeing & Printing ERP plus Accounts, Cheque and HRMS modules; high-quality database design; report scripting; white-box testing; post-deployment enhancement.
-*Projects:* Dyeing / Knitting / Printing ERP · Accounts & Finance · Digital Cheque Management · Expense Management · HRMS
+_Projects:_ Dyeing / Knitting / Printing ERP · Accounts & Finance · Digital Cheque Management · Expense Management · HRMS
 
-**Infocrat Solutions Ltd.** — *Programmer*
+**Infocrat Solutions Ltd.** — _Programmer_
 Application and database development across multiple ERP products, report scripting and white-box testing.
-*Projects:* Garments ERP · Textile ERP · Accessories ERP · Accounts & Finance · Bangladesh Eye Hospital ERP
+_Projects:_ Garments ERP · Textile ERP · Accessories ERP · Accounts & Finance · Bangladesh Eye Hospital ERP
 
-**Daffodil International University** — *Student Prefect*
+**Daffodil International University** — _Student Prefect_
 Assisted teaching the **Operating Systems** lab course and supported course administration.
 
 </details>
@@ -448,11 +447,11 @@ Assisted teaching the **Operating Systems** lab course and supported course admi
 
 ## 🎓 Education & Certifications
 
-| Degree | Institution | Period | Result |
-| :--- | :--- | :--- | :--- |
+| Degree                                      | Institution                              | Period      | Result           |
+| :------------------------------------------ | :--------------------------------------- | :---------- | :--------------- |
 | **B.Sc. in Computer Science & Engineering** | Daffodil International University, Dhaka | 2014 – 2018 | CGPA 3.21 / 4.00 |
-| **HSC (Science)** | Lions School & College, Rangpur | 2010 – 2012 | GPA 4.20 / 5.00 |
-| **SSC (Science)** | Shukurer Hat High School, Rangpur | 2009 – 2010 | GPA 4.13 / 5.00 |
+| **HSC (Science)**                           | Lions School & College, Rangpur          | 2010 – 2012 | GPA 4.20 / 5.00  |
+| **SSC (Science)**                           | Shukurer Hat High School, Rangpur        | 2009 – 2010 | GPA 4.13 / 5.00  |
 
 **🔄 Currently training**
 
@@ -465,19 +464,19 @@ Assisted teaching the **Operating Systems** lab course and supported course admi
 
 <br/>
 
-| Programme | Provider | Period | Technologies |
-| :--- | :--- | :--- | :--- |
+| Programme                                      | Provider         | Period         | Technologies                                                                                                                   |
+| :--------------------------------------------- | :--------------- | :------------- | :----------------------------------------------------------------------------------------------------------------------------- |
 | Next Level AI-Driven Software Engineering (L2) | Programming Hero | Apr – Oct 2026 | TypeScript · Node · Express · PostgreSQL · Prisma · Docker · Nginx · AWS (EC2/S3/IAM) · GitHub Actions · RAG & pgvector · Jest |
-| Complete Web Development (L1) | Programming Hero | Jan – Jun 2026 | React · Next.js · Tailwind · DaisyUI · Express · MongoDB · JWT |
-| AI Agent Mastery — Build, Automate & Scale | Hablu Programmer | Jun – Nov 2026 | n8n · LangChain · Langflow · OpenAI · Claude · RAG · Voice AI |
+| Complete Web Development (L1)                  | Programming Hero | Jan – Jun 2026 | React · Next.js · Tailwind · DaisyUI · Express · MongoDB · JWT                                                                 |
+| AI Agent Mastery — Build, Automate & Scale     | Hablu Programmer | Jun – Nov 2026 | n8n · LangChain · Langflow · OpenAI · Claude · RAG · Voice AI                                                                  |
 
-| Completed Certification | Issuer | Date |
-| :--- | :--- | :--- |
-| SQL (Intermediate) — `70428DE18823` | [HackerRank](https://www.hackerrank.com/profile/mdalaminmiah4625) | Sep 2021 |
-| SQL (Basic) — `26AC2F21B0C7` | [HackerRank](https://www.hackerrank.com/profile/mdalaminmiah4625) | Sep 2021 |
-| Mobile Application Development (Android) | ICT Ministry, Bangladesh | May – Nov 2018 |
-| App Monetization & Management | ICT Ministry, Bangladesh | May – Aug 2018 |
-| Web Application Development — .NET | BITM | Jul – Nov 2017 |
+| Completed Certification                  | Issuer                                                            | Date           |
+| :--------------------------------------- | :---------------------------------------------------------------- | :------------- |
+| SQL (Intermediate) — `70428DE18823`      | [HackerRank](https://www.hackerrank.com/profile/mdalaminmiah4625) | Sep 2021       |
+| SQL (Basic) — `26AC2F21B0C7`             | [HackerRank](https://www.hackerrank.com/profile/mdalaminmiah4625) | Sep 2021       |
+| Mobile Application Development (Android) | ICT Ministry, Bangladesh                                          | May – Nov 2018 |
+| App Monetization & Management            | ICT Ministry, Bangladesh                                          | May – Aug 2018 |
+| Web Application Development — .NET       | BITM                                                              | Jul – Nov 2017 |
 
 </details>
 
