@@ -12,12 +12,23 @@
 
 <br/>
 
+<<<<<<< HEAD
 ![Experience](https://img.shields.io/badge/Experience-7%2B_Years-0EA5E9?style=flat-square)
 ![ERP Modules](https://img.shields.io/badge/ERP_Modules_Shipped-25%2B-6366F1?style=flat-square)
 ![Production Lines](https://img.shields.io/badge/Production_Lines_Served-63-7C3AED?style=flat-square)
 ![Employers](https://img.shields.io/badge/Enterprise_Employers-5-0369A1?style=flat-square)
 ![Location](https://img.shields.io/badge/Rangpur,_Bangladesh-Remote_Friendly-16A34A?style=flat-square)
 ![Profile views](https://komarev.com/ghpvc/?username=mdalaminmiah&label=Profile%20views&color=0EA5E9&style=flat-square)
+=======
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mdalaminmiah/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-6366F1?style=for-the-badge&logo=githubpages&logoColor=white)](https://mdalaminmiah.vercel.app/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mdalaminmiah)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/md.a.hossain)
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mdalaminmiah4625@gmail.com)
+[![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/mdalaminmiah4625)
+>>>>>>> 4d177962539245949b12a4d6435b3fc250bbde2a
 
 </div>
 
